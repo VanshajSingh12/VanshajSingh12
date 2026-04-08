@@ -1,8 +1,6 @@
 # Hi there, I'm Vanshaj! 👋 
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=VanshajSingh12&label=Profile%20views&color=0e75b6&style=flat" alt="VanshajSingh12" />
-</p>
+###🚀 About Me
 
 🎓 **Computer Science & Engineering** student at **JSS Academy of Technical Education, Noida** (2023-2027)<br>
 💻 **Passionate Full Stack Developer** specializing in **React.js** and **Next.js**<br>
