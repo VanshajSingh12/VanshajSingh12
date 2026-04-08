@@ -4,12 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=VanshajSingh12&label=Profile%20views&color=0e75b6&style=flat" alt="VanshajSingh12" />
 </p>
 
-🎓 **Computer Science & Engineering** student at **JSS Academy of Technical Education, Noida** (2023-2027)
-💻 **Passionate Full Stack Developer** specializing in **React.js** and **Next.js**
-🎨 Building interactive UIs and scalable server-side logic with **Node.js, Express, and MongoDB**
+🎓 **Computer Science & Engineering** student at **JSS Academy of Technical Education, Noida** (2023-2027)<br>
+💻 **Passionate Full Stack Developer** specializing in **React.js** and **Next.js**<br>
+🎨 Building interactive UIs and scalable server-side logic with **Node.js, Express, and MongoDB**<br>
 📍 Based in **Noida, Uttar Pradesh, India**
 
----
 ---
 
 ### 🛠️ Tech Stack
@@ -26,26 +25,22 @@
 
 ---
 
-### 🚀 Featured Projects (Row-Wise)
+### 🚀 Featured Projects 
 
 #### 📘 **UpLift**
-> A full-featured Ed-tech platform built using the **MERN Stack**. Includes course management, secure authentication, and payment integration.
-> [**View Project**](https://github.com/VanshajSingh12/UpLift)
-
-#### ☁️ **Weather App**
-> A real-time weather application that fetches data from OpenWeather API. Features a dynamic UI that changes based on weather conditions.
-> [**View Project**](https://github.com/VanshajSingh12/Weather-App)
-
+* **Full-stack Ed-tech platform** built with the **MERN stack**, designed for scalable online learning.
+* **Instructor Features:** Implemented a robust course management system allowing instructors to **create, edit, and publish** high-quality video courses.
+* **Student Experience:** Developed a personalized dashboard for students to **purchase courses and track their learning progress** in real-time.
+* **Payment Integration:** Integrated **Razorpay API** for secure, seamless payment processing, handling order creation and signature verification.
+* **Secure Architecture:** Integrated **JWT-based authentication** and secure route protection for different user roles (Student/Instructor).
+* **Media Handling:** Leveraged **Cloudinary** for optimized video and image storage.
+> [**View Repository**](https://github.com/VanshajSingh12/UpLift)
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=VanshajSingh12&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshajSingh12&layout=compact&theme=radical&hide_border=true" />
-</p>
+#### ☁️ **Weather App**
+> A real-time weather application that fetches data from OpenWeather API.
+> Features a dynamic UI that changes based on weather conditions.
+> [**View Project**](https://github.com/VanshajSingh12/Weather-App)
 
 ---
 
