@@ -1,6 +1,7 @@
 # Hi there, I'm Vanshaj! 👋 
+<br>
 
-###🚀 About Me
+### 🚀 About Me
 
 🎓 **Computer Science & Engineering** student at **JSS Academy of Technical Education, Noida** (2023-2027)<br>
 💻 **Passionate Full Stack Developer** specializing in **React.js** and **Next.js**<br>
