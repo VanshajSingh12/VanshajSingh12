@@ -38,10 +38,10 @@
 ---
 
 #### ☁️ **Weather App**
-> A real-time weather application that fetches data from OpenWeather API.
-> Features a dynamic UI that changes based on weather conditions.
-> [**View Project**](https://github.com/VanshajSingh12/Weather-App)
-
+* **Real-time Weather Dashboard** developed using **Asynchronous JavaScript** and the **Fetch API**.
+* **API Integration:** Leveraged the **OpenWeatherMap API** to fetch and display precise global weather data, including temperature, humidity, and wind speed.
+* **Location-Based Data:** Integrated functionality to search and retrieve weather information for any city worldwide with minimal latency.
+> [**View Repository**](https://github.com/VanshajSingh12/Weather-App)
 ---
 
 ### 🤝 Connect with Me
