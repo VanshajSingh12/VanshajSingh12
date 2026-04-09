@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects 
 
-### 📈 **UpLift**
+### 📈 **UpLift** &nbsp;&nbsp; [![Visit Site](https://img.shields.io/badge/Visit_Site-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://up-lift-nine.vercel.app/)
 * **Full-stack Ed-tech platform** built with the **MERN stack**, designed for scalable online learning.
 * **Instructor Features:** Implemented a robust course management system allowing instructors to **create, edit, and publish** high-quality video courses.
 * **Student Experience:** Developed a personalized dashboard for students to **purchase courses and track their learning progress** in real-time.
@@ -36,7 +36,7 @@
 > [**View Repository**](https://github.com/VanshajSingh12/UpLift)
 ---
 
-### ☁️ **Weather App**
+### ☁️ **Weather App** &nbsp;&nbsp; [![Visit Site](https://img.shields.io/badge/Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sky-cast-two-iota.vercel.app/)
 * **Real-time Weather Dashboard** developed using **Asynchronous JavaScript** and the **Fetch API**.
 * **API Integration:** Leveraged the **OpenWeatherMap API** to fetch and display precise global weather data, including temperature, humidity, and wind speed.
 * **Location-Based Data:** Integrated functionality to search and retrieve weather information for any city worldwide with minimal latency.
