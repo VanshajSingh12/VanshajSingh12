@@ -34,13 +34,25 @@
 * **Secure Architecture:** Integrated **JWT-based authentication** and secure route protection for different user roles (Student/Instructor).
 * **Media Handling:** Leveraged **Cloudinary** for optimized video and image storage.
 > [**View Repository**](https://github.com/VanshajSingh12/UpLift)
+
 ---
 
-### ☁️ **Weather App** &nbsp;&nbsp; [![Visit Site](https://img.shields.io/badge/Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sky-cast-two-iota.vercel.app/)
+### 💰 **TrackAI** &nbsp;&nbsp; [![Visit Site](https://img.shields.io/badge/Visit_Site-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://track-ai-iota.vercel.app/)
+* **AI-Powered Finance Tracker** built with the **MERN stack** integrated with**AI**.
+* **Smart Analysis:** Implemented an automated expense categorization and financial insights engine using **LLMs** to provide personalized saving tips.
+* **Real-time Tracking:** Developed a dynamic dashboard to monitor income, expenses, and budget limits with real-time data visualization.
+* **Responsive Design:** Engineered a clean, professional UI using **Tailwind CSS** and mobile responsiveness.
+* **Robust Backend:** Architected a secure REST API with **Node.js/Express** and **MongoDB**, featuring JWT authentication and protected middleware.
+> [**View Repository**](https://github.com/VanshajSingh12/TrackAI)
+
+---
+
+### ☁️ **SkyCast** &nbsp;&nbsp; [![Visit Site](https://img.shields.io/badge/Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sky-cast-two-iota.vercel.app/)
 * **Real-time Weather Dashboard** developed using **Asynchronous JavaScript** and the **Fetch API**.
 * **API Integration:** Leveraged the **OpenWeatherMap API** to fetch and display precise global weather data, including temperature, humidity, and wind speed.
 * **Location-Based Data:** Integrated functionality to search and retrieve weather information for any city worldwide with minimal latency.
 > [**View Repository**](https://github.com/VanshajSingh12/Weather-App)
+
 ---
 
 ### 🤝 Connect with Me
